@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@media screen and (max-width: 576px) {
+    .searchBar {
+        padding: 10px;
+    }
+}
+@media screen and (min-width: 1024px) {
+    .homeStories .swiper-slide-active {
+        width: calc(66.66% - 20px) !important;
+    }
+    .homeStories .swiper-slide-next {
+        width: 33.33% !important;
+    }
+    .homeStories .swiper-slide-next  .slide-bottom {
+        display: none;
+    }
+}

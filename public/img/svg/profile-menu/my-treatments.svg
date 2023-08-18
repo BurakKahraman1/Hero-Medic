@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.2 15.2">
+    <g id="doctor-bag" transform="translate(-1.9 -1.9)">
+        <path id="Path_50470" data-name="Path 50470" d="M11,2H8A2.25,2.25,0,0,0,5.75,4.25V5H4.25A2.25,2.25,0,0,0,2,7.25v7.5A2.25,2.25,0,0,0,4.25,17h10.5A2.25,2.25,0,0,0,17,14.75V7.25A2.25,2.25,0,0,0,14.75,5h-1.5V4.25A2.25,2.25,0,0,0,11,2ZM7.25,4.25A.75.75,0,0,1,8,3.5h3a.75.75,0,0,1,.75.75V5H7.25Zm8.25,3v7.5a.75.75,0,0,1-.75.75H4.25a.75.75,0,0,1-.75-.75V7.25a.75.75,0,0,1,.75-.75h10.5A.75.75,0,0,1,15.5,7.25Z" fill="#2b2d42" stroke="#f5f6f9" stroke-width="0.2"></path>
+        <path id="Path_50471" data-name="Path 50471" d="M12,11H10.5v1.5H9V14h1.5v1.5H12V14h1.5V12.5H12Z" transform="translate(-1.75 -2.25)" fill="#2b2d42" stroke="#f5f6f9" stroke-width="0.2"></path>
+    </g>
+</svg>

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /*
+
+Disallow: /api/*
+
+Sitemap: https://blissful-chaum.3-126-114-99.plesk.page/api/sitemap
